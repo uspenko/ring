@@ -1,5 +1,6 @@
-# ring
-Raspberry PI -Ring [testnet]
-updated with ring 0.18.1.4
-- RaspbianOS (arml-32)
-- Ubuntu server 19.10.1 OS (aarch64)
+Ring v0.18.2.1
+
+Raspberry PI - Ring Wallet 
+updated with ring 0.18.2.1
+- RaspbianOS (armv7l) - 32bit
+- Ubuntu server 19.10.1 OS (aarch64) -64 bit
